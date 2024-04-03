@@ -1,0 +1,3 @@
+.nprogress-busy body {
+  cursor: wait;
+}
